@@ -33,7 +33,7 @@ classifiers=[
         "coverage[toml]>=5.1",
         # Format
         "black==23.3.0",
-        "isort==5.11.5",
+        "isort==6.0.1",
         "pre-commit>=1.15.2",
         # Linters
         "mypy>=1.4.1",
