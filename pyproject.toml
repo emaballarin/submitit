@@ -36,7 +36,7 @@ classifiers=[
         "isort==7.0.0",
         "pre-commit>=1.15.2",
         # Linters
-        "mypy>=1.4.1",
+        "mypy>=1.19.1",
         "pylint>=3.0.0",
         # Release
         "flit>=3.5.1"
